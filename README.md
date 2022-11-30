@@ -1,2 +1,2 @@
-# fself
-Forensic setup elf. This script will help to configure macOS for forensic purposes.
+# forensic_mac_script
+A bash script to install main general and forensic utilities for macOS. It's just the beginning of its journey. 
